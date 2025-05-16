@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 💹 Growth marketer by trade
-- 💻  Interested in everything related to building software, from programming languages, and their specific use case, to user experience, design, functional, and clear user interfaces.
+- 💻  Interested in everything related to building software, from programming languages, and their specific use case to user experience, design, functional, and clear user interfaces.
 - 🌱 I’m currently learning Go
 - ⌨️ Had played with Python / Elixir / 😡 Javascript
 <!--
